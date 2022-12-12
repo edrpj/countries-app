@@ -1,0 +1,36 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing <Navbar /> should do match with snapshot 1`] = `
+<div>
+  <nav
+    class="navbar shadow-sm py-3 bg-white"
+  >
+    <div
+      class="container-fluid px-0 w-90 m-auto"
+    >
+      <a
+        aria-label="logo"
+        class="navbar-brand font-extrabold text-very-dark-blue"
+        href="/countries"
+      >
+        Where in the world?
+      </a>
+      <div
+        aria-label="changeThemeDiv"
+        class="d-flex align-items-center cursor-pointer"
+      >
+        <i
+          aria-label="iTag"
+          class="fa-regular fa-moon d-flex align-items-center text-very-dark-blue"
+        />
+        <p
+          aria-label="paragraph"
+          class="text-very-dark-blue font-semibold ms-2 m-0-auto"
+        >
+          Dark Mode
+        </p>
+      </div>
+    </div>
+  </nav>
+</div>
+`;

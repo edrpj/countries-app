@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing <Loading /> should do match with the snapshot 1`] = `
+<div>
+  <div
+    class="w-100 h-100 m-0-auto d-flex justify-content-center flex-1 bg-white"
+  >
+    <div
+      aria-label="spinner"
+      class="spinner-border text-dark"
+      role="status"
+      style="width: 5rem; height: 5rem;"
+    >
+      <span
+        class="visually-hidden"
+      >
+        Loading...
+      </span>
+    </div>
+  </div>
+</div>
+`;
